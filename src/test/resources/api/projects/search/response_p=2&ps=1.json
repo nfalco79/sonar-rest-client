@@ -1,0 +1,17 @@
+{
+    "paging":{
+        "pageIndex":2,
+        "pageSize":1,
+        "total":2
+    },
+    "components":[
+        {
+            "key":"com.acme:mail",
+            "name":"Mail Core",
+            "qualifier":"TRK",
+            "visibility":"private",
+            "lastAnalysisDate":"2022-01-01T22:32:46+0100",
+            "revision":"51db0828fc9c228878518b036367117b1a6a3b39"
+        }
+    ]
+}

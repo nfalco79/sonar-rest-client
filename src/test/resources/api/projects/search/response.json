@@ -1,0 +1,17 @@
+{
+    "paging":{
+        "pageIndex":1,
+        "pageSize":1,
+        "total":2
+    },
+    "components":[
+        {
+            "key":"com.acme:calendar.parent",
+            "name":"Calendar",
+            "qualifier":"TRK",
+            "visibility":"private",
+            "lastAnalysisDate":"2022-01-21T11:12:06+0100",
+            "revision":"5a76333e1081afc0405c23260b8c7c7578d79745"
+        }
+    ]
+}

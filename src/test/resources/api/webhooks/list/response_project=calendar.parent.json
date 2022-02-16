@@ -1,0 +1,9 @@
+{
+    "webhooks":[
+        {
+            "key":"AX8INCc_IQ7HBt-oGadm",
+            "name":"JenkinsWebhook",
+            "url":"https://rad.finantix.com/jenkins/sonarqube-webhook/"
+        }
+    ]
+}
