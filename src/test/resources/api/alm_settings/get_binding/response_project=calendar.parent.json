@@ -1,0 +1,6 @@
+{
+    "key":"bitbucket-cloud",
+    "alm":"bitbucketcloud",
+    "repository":"calendar.parent",
+    "monorepo":false
+}

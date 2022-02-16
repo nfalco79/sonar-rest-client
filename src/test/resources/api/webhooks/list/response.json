@@ -1,0 +1,16 @@
+{
+    "webhooks":[
+        {
+            "key":"AX8MFZxKIQ7HBt-oGafa",
+            "name":"Jenkins Integration",
+            "url":"https://rad.acme.com/jenkins/sonarqube-webhook/",
+            "latestDelivery":{
+                "id":"AX8MLbok9hzCSsLzFN8d",
+                "at":"2022-02-18T10:33:17+0100",
+                "success":true,
+                "httpStatus":200,
+                "durationMs":21
+            }
+        }
+    ]
+}

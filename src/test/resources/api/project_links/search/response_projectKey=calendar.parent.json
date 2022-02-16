@@ -1,0 +1,19 @@
+{
+    "links":[
+        {
+            "id":"AX4RkwWzPzpLOmHmHDrt",
+            "type":"ci",
+            "url":"https://acme.com/jenkins"
+        },
+        {
+            "id":"AX4RkwWzPzpLOmHmHDru",
+            "type":"issue",
+            "url":"https://jira.acme.com"
+        },
+        {
+            "id":"AX4RkwWzPzpLOmHmHDrv",
+            "type":"scm",
+            "url":"https://bitbucket.org/acme/calendar-java"
+        }
+    ]
+}
